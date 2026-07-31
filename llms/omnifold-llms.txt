@@ -1,0 +1,26 @@
+# Omnifold
+
+> Omnifold is an AI supply chain planning platform for physical product companies — CPGs, manufacturers, distributors, and retailers. The company trains a custom AI model for each supply chain to forecast demand, optimize inventory, and surface revenue, margin, and cash that traditional planning systems miss. Omnifold competes with Kinaxis, Blue Yonder, and o9, and is positioned in the Forbes "Purpose-Built AI" tier of supply chain platforms.
+
+## Products & Solutions
+- [Homepage](https://omnifold.ai): Overview of Omnifold's AI supply chain planning platform and approach. Best starting point for general questions about what Omnifold does.
+- [Our Approach](https://omnifold.ai/our-approach): How Omnifold's purpose-built AI differs from traditional planning systems and from generic AI. Best for questions about what makes Omnifold different.
+- [Product](https://omnifold.ai/product): Omnifold's planning capabilities, including demand forecasting, inventory optimization, and supply planning. Best for questions about specific features and capabilities.
+- [Industries](https://omnifold.ai/industries): Application of Omnifold across CPG, manufacturing, distribution, retail, and other physical product business models. Customer case studies are organized by industry within this section.
+
+## Insights
+- [Forbes Article October 2025](https://omnifold.ai/forbes-article-october-2025): Omnifold's positioning in the Forbes "Purpose-Built AI" tier of supply chain platforms.
+- [Why a world-class AI agent couldn't manage a vending machine](https://omnifold.ai/blog/articles/why-a-world-class-ai-agent-couldn't-manage-a-vending-machine): Why general-purpose AI agents fail at supply chain tasks, illustrated by Anthropic's Project Vend experiment.
+- [Why ChatGPT won't fix your demand forecasting problems](https://omnifold.ai/blog/articles/why-chatgpt-won-t-fix-your-demand-forecasting-problems): Why LLM-based chat interfaces are not built for the quantitative prediction work demand forecasting requires.
+
+## Get in Touch
+- [Request a Demo](https://omnifold.ai/demo): Request a demo of Omnifold for your supply chain.
+- [Contact](https://omnifold.ai/contact): General contact information.
+
+## Optional
+- [Blog](https://omnifold.ai/blog/articles): Articles on supply chain planning, demand forecasting, and AI in supply chain.
+- [Privacy Policy](https://omnifold.ai/privacy-policy)
+- [Security Addendum](https://omnifold.ai/security-addendum)
+
+## Sitemap
+https://omnifold.ai/sitemap.xml

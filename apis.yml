@@ -1,8 +1,26 @@
 aid: omnifold
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/omnifold.png
 name: Omnifold
-description: Omnifold is a company surfaced as a portfolio company of bloomberg-beta, lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Omnifold is an AI supply chain planning platform for physical product companies — CPGs,
+  manufacturers, distributors, and retailers. The company trains a custom AI model for each
+  supply chain to forecast demand, optimize inventory, and surface revenue, margin, and cash
+  that traditional planning systems miss, positioning itself in the Forbes "Purpose-Built AI"
+  tier and competing with Kinaxis, Blue Yonder, and o9. Omnifold was surfaced as a portfolio
+  company of Bloomberg Beta and Lightspeed Venture Partners and added to the API Evangelist
+  network. Omnifold publishes marketing and product content but exposes no public API,
+  developer portal, SDKs, or authentication surface as of this enrichment pass.
 url: https://raw.githubusercontent.com/api-evangelist/omnifold/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Supply Chain
+- Artificial Intelligence
+- Demand Forecasting
+- Inventory Optimization
+- Planning
+- CPG
+- Manufacturing
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,20 @@ maintainers:
 common:
 - type: Website
   url: https://omnifold.ai/
+- type: Blog
+  url: https://omnifold.ai/blog/articles
+- type: PrivacyPolicy
+  url: https://omnifold.ai/privacy-policy
+- type: Support
+  url: https://omnifold.ai/contact
+- type: SignUp
+  url: https://omnifold.ai/demo
+- type: LLMsTxt
+  url: llms/omnifold-llms.txt
+- type: DomainSecurity
+  url: security/omnifold-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
